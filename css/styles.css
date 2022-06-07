@@ -9,10 +9,14 @@ font-style: normal; */
 
 
 .title-container {
-  background-color: #653585;
+  background-color: #CDC1D5;
   text-align: center;
+  padding: 20px;
 }
 
+img {
+  text-align: center;
+}
 
 p {
   text-align: center;
@@ -21,6 +25,43 @@ p {
   font-weight: 300;
   font-style: normal;
 
+}
+
+.button-1 {
+  color: black;
+  text-align: center;
+  padding: 7px;
+  margin: 90px;
+  border: 2px solid;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: black;
+}
+
+.button-2 {
+  color: black;
+  text-align: center;
+  padding: 7px;
+  margin: 90px;
+  border: 2px solid;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button-3 {
+  color: black;
+  text-align: center;
+  padding: 7px;
+  margin: 90px;
+  border: 2px solid;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 h1 {
@@ -35,4 +76,19 @@ a href {
   font-weight: 300;
   font-style: normal;
   text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+.footer-container {
+  background-color: #CDC1D5;
+  text-align: center;
+  padding: 20px;
 }
