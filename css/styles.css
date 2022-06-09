@@ -9,21 +9,25 @@ html {
   scroll-behavior: smooth;
 }
 
+
 body {
   max-width: 375px;
   margin: auto;
+  
 }
+
 
 .title-container {
   background-color: #CDC1D5;
   text-align: center;
   padding: 20px;
-  
 }
+
 
 img {
   text-align: center;
 }
+
 
 p {
   text-align: center;
@@ -34,9 +38,11 @@ p {
 
 }
 
+
 a {
   text-decoration: none;
 }
+
 
 .button {
   color: white;
@@ -58,23 +64,28 @@ a:visited {
   color: white;
 }
 
+
 .button-seed {
   box-shadow: 5px 5px 0 #ffd383;
 }
 
+
 .button-seller {
   box-shadow: 5px 5px 0 #CDC1D5;
 }
+
 
 .button-contact {
   box-shadow: 5px 5px 0 #f199c3;
   margin-bottom: 60px;
 }
 
+
 .button-shop {
   margin: 10px 120px 60px 120px;
   box-shadow: 5px 5px 0 #f199c3;
 }
+
 
 h1 {
   text-align: center;
@@ -84,6 +95,7 @@ h1 {
   font-size: 30px;
 }
 
+
 a href {
   font-family: roc-grotesk, sans-serif;
   font-weight: 300;
@@ -92,13 +104,10 @@ a href {
 }
 
 
-
 .img-box {
   width: 50%;
   
 }
-
-
 
 
 .footer-container {
